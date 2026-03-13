@@ -1,0 +1,1 @@
+{"PartitionKey":"AssignmentFilterTemplate","RowKey":"a0976be1-806e-40db-bda9-3b64b394c0b8","JSON":"{\"displayName\":\"CIPP: Virtual Machines\",\"description\":\"Virtual Machines\",\"platform\":\"windows10AndLater\",\"rule\":\"(device.model -contains \\\"Virtual\\\")\",\"assignmentFilterManagementType\":\"devices\",\"GUID\":\"a0976be1-806e-40db-bda9-3b64b394c0b8\"}"}
